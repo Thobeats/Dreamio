@@ -50,4 +50,10 @@ h1{
     display: inline;
 
 }
+a:link{
+    color: rgb(199, 21, 199);
+    text-decoration: none;
+    font-family: cursive;
+    margin-left: 150px;
+}
   
